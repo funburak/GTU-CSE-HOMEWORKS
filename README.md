@@ -1,6 +1,6 @@
 # GTU-CSE-HOMEWORKS
 
-The homeworks I made during my Gebze Technical University Computer Engineering study at 2021-2025.
+The homeworks I have done during my Gebze Technical University Computer Engineering study at 2021-2025.
 
 Course Names <br />
 CSE101 - Introduction to Computer Engineering (C / Arduino). <br />
