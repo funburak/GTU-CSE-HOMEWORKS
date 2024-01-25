@@ -1,0 +1,6 @@
+(+ 4b1 6b1)
+(def sum x y (+ x y))
+(sum 4b1 6b1)
+(topla 4b1 6b1)
+(* 4b1 6b1)
+(exit)
